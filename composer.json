@@ -7,7 +7,6 @@
             "Core\\": "core/"
         },
         "files": [
-            "src/init.php",
             "src/functions.php"
         ]
     }
