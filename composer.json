@@ -1,0 +1,14 @@
+{
+    "require": {
+        "spatie/async": "^1.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Core\\": "core/"
+        },
+        "files": [
+            "src/init.php",
+            "src/functions.php"
+        ]
+    }
+}
